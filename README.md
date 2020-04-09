@@ -1,0 +1,1 @@
+This repo usages python3 and selenenium libreary to control chromum webdriver
